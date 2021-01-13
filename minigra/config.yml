@@ -1,0 +1,21 @@
+Areny:
+  "1":
+    NazwaAreny: "Lavina"
+    Default-Spawn: "Skyworld,6,98,29"
+    Goniacy-Spawn: "Skyworld,36,83,13"
+    Uciekajacy-Spawn: "Skyworld,8,73,-5"
+    Max-PlayersInGame: 3
+    Min-PlayersInGame: 2
+    Goniacych: 1
+    GoniacySetMaxHealth: 30.0
+
+Bloki-VIP:
+  - ''
+
+Bloki-Goniacy:
+  - ''
+
+Bloki-Uciekajacy:
+  - ''
+
+Dane:

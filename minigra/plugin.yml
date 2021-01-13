@@ -1,0 +1,12 @@
+name: GanianyByMatyyy
+main: me.matyyy.Main
+version: 1.1
+author: Matyyy
+
+permissions:
+  ganiany.vip:
+    default: false
+  ganiany.uciekajacy:
+    default: false
+  ganiany.goniacy:
+    default: false
